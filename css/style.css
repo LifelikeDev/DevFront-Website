@@ -47,8 +47,8 @@ body {
 
 /*   Landing Page   */
 .home-inner {
-  background-image: url(/img/woods.jpg);
-  background-color: rgba(3, 49, 68, 0.795);
+  background-image: url(/img/code-meeting.jpg);
+  background-color: rgba(2, 32, 44, 0.952);
   background-blend-mode: overlay;
   background-repeat: no-repeat;
   background-size: contain;
@@ -127,7 +127,7 @@ h3.features-heading {
   z-index: -1;
 }
 .dark {
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(2, 32, 44, 0.836);
   color: #fff;
   padding: 6rem 2rem;
 }
