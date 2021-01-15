@@ -197,8 +197,13 @@ p.contact {
 
 /* Media Queries */
 @media (max-width: 767px) {
+  /* .navbar-toggler {
+    font-size: 1.3rem;
+  } */
   h2.brand {
-    font-size: 1.25rem;
+    font-size: 1.3rem;
+    line-height: 1.5;
+    margin-bottom: 0;
   }
   .caption {
     padding: 0 1rem;
